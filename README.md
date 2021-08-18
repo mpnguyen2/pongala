@@ -1,0 +1,1 @@
+This is a team project on developing a 2D shooting game based on ping-pong
